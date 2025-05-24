@@ -29,15 +29,15 @@ import {
 // This is sample data.
 const data = {
   user: {
-    name: "shadcn",
-    email: "m@example.com",
-    avatar: "/avatars/shadcn.jpg",
+    name: "Afgan Irwansyah Hidayat",
+    email: "afgandevs@gmail.com",
+    avatar: "https://images.icon-icons.com/3579/PNG/512/avatar_people_man_black_afrikan_icon_225749.png",
   },
   teams: [
     {
-      name: "Acme Inc",
+      name: "Afgan Irwansyah Hidayat",
       logo: GalleryVerticalEnd,
-      plan: "Enterprise",
+      plan: "To Do List",
     },
     {
       name: "Acme Corp.",
